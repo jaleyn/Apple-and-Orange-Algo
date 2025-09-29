@@ -1,1 +1,1 @@
-# Apple-and-Orange
+# Apple-and-Orange This program calculates how many apples and oranges fall within the house’s range by checking each fruit’s landing position relative to the house boundaries. It then prints the total number of apples and oranges that land on the house
